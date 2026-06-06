@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="YTQOy1gNI40luvdY2Vy8">
+    <mxGraphModel dx="1658" dy="937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1300" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-3" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#005700;fillColor=#008a00;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="START" vertex="1">
+          <mxGeometry height="60" width="100" x="550" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-6" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="339" />
+              <mxPoint x="343" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-7" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="339" />
+              <mxPoint x="858" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fillColor=#1ba1e2;strokeWidth=1;strokeColor=#006EAF;align=center;" value="&lt;font style=&quot;&quot;&gt;&lt;span data-path-to-node=&quot;2,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;INPUT Data Titik Historis UMKM:&lt;/span&gt; &lt;span class=&quot;math-inline&quot; data-math=&quot;(10, 150000), (30, 550000), (50, 750000)&quot; data-index-in-node=&quot;33&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;(10, 150000),&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span class=&quot;math-inline&quot; data-math=&quot;(10, 150000), (30, 550000), (50, 750000)&quot; data-index-in-node=&quot;33&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;(30, 550000), (50, 750000)&lt;/span&gt;&amp;nbsp;&amp;amp; Target Produksi &lt;span class=&quot;math-inline&quot; data-math=&quot;x=25&quot; data-index-in-node=&quot;92&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;x=25&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="335" x="433" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-9" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;PROSES Interpolasi Linier:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Hitung Kemiringan&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;m=(y1-y0/(x1-x0)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="253" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-11" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;PROSES Interpolasi Kuadratik:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Hitung Koefisien Newton&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;b0,b1,b2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="768" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-14" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;Hitung Hasil Linier&lt;/font&gt;&lt;div&gt;&lt;span class=&quot;math-inline&quot; data-math=&quot;P1(x)=y0+m*(x-x0)&quot; data-index-in-node=&quot;20&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;font style=&quot;&quot;&gt;P1(x)=y0+m*(x-x0)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="253" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-13" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;&lt;span data-path-to-node=&quot;2,2,1,1,1,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Hitung Hasil Kuadratik&lt;/span&gt; &lt;span class=&quot;math-inline&quot; data-math=&quot;P2(x)=b0+b1*(x-x0)+b2*(x-x0)*(x-x1)&quot; data-index-in-node=&quot;23&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;P2(x)=b0+b1*(x-x0)+b2*(x-x0)*(x-x1)&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="768" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-16" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" target="yDkyHEspNh-nXIwr-sxq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;font style=&quot;&quot;&gt;PROSES Evaluasi &amp;amp; Hitung Galat Relatif (%)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="510.5" y="834" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=light-dark(#FFFFFF,#FFFFFF);fillColor=#1ba1e2;strokeWidth=1;strokeColor=#006EAF;align=center;" value="&lt;font style=&quot;&quot;&gt;&lt;span data-path-to-node=&quot;2,4,0&quot; data-index-in-node=&quot;0&quot; style=&quot;&quot;&gt;TAMPILKAN Grafik Matplotlib:&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Data Asli, Garis Linier, Kurva Kuadratik, &amp;amp; Titik Estimasi&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="335" x="433" y="984" as="geometry" />
+        </mxCell>
+        <mxCell id="yDkyHEspNh-nXIwr-sxq-18" edge="1" parent="1" source="yDkyHEspNh-nXIwr-sxq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="SH2UuNVuMjA8WJfVTXmp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.5" y="1119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SH2UuNVuMjA8WJfVTXmp-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="END" vertex="1">
+          <mxGeometry height="60" width="100" x="550" y="1113" as="geometry" />
+        </mxCell>
+        <mxCell id="SH2UuNVuMjA8WJfVTXmp-2" parent="1" style="swimlane;startSize=0;strokeColor=light-dark(#000000,#000000);fillColor=none;" value="" vertex="1">
+          <mxGeometry height="1198" width="1039" x="82" y="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
